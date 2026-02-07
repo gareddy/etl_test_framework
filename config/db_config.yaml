@@ -1,0 +1,5 @@
+default_db:
+  connection: "sqlite:///data/dummy.db"
+
+target_db:
+  connection: "sqlite:///data/dummy.db"

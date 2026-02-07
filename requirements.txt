@@ -1,0 +1,7 @@
+pandas
+openpyxl
+sqlalchemy
+jinja2
+pytest
+psycopg2-binary
+pymysql
